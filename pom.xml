@@ -19,7 +19,7 @@
 
 		<!-- 根据你的Spring Boot版本选择合适的spring cloud alibaba -->
 		<!-- -->
-		<spring-cloud-alibaba-dependencies.version>2.2.5.RELEASE</spring-cloud-alibaba-dependencies.version>
+		<spring-cloud-alibaba-dependencies.version>${spring-cloud-alibaba-dependencies.version}</spring-cloud-alibaba-dependencies.version>
 	</properties>
 
 	<dependencyManagement>
